@@ -4,8 +4,9 @@
   price: "1 day — 40, weekend — 50, 10 days — 260, 1 month — 650"
   access: "9:00-21:00"
   notes:
-    - 1 month membership gives access to all Terminal coworking spaces in Georgia.
+    - 1 month membership includes access to all Terminal coworking spaces in Georgia.
     - 1 month membership allows 24/7 access.
+    - 10 days pass is valid for 10 consecutive days.
   retrieval_date: 2026-06-10
 - name: Locus Batumi Coworking
   city: Batumi
@@ -42,8 +43,9 @@
   price: "1 day — 40, 10 days — 220, 1 month — 500"
   access: "0:00-00:00"
   notes:
-    - 1 month membership gives access to all Terminal coworking spaces in Georgia.
+    - 1 month membership includes access to all Terminal coworking spaces in Georgia.
     - 1 month membership includes fixed desk
+    - 10 days pass is valid for 10 consecutive days (may be possible to skip weekends).
   retrieval_date: 2026-06-19
 - name: D Block Workspace @ Stamba
   city: Tbilisi
@@ -63,5 +65,13 @@
   price: "1 day — 40, 10 days — 220, 1 month — 500"
   access: "0:00-00:00"
   notes:
-    - 1 month membership gives access to all Terminal coworking spaces in Georgia.
+    - 1 month membership includes access to all Terminal coworking spaces in Georgia.
   retrieval_date: 2026-06-23
+- name: Collider Ramishvili (Vake)
+  city: Tbilisi
+  url: https://colliderspaces.com
+  price: "1 day — 30, 1 week — 150, 2 weeks — 250, 12 days — 250, 1 month — 400"
+  access: "0:00-00:00"
+  notes:
+    - 12 days pass is valid during a month.
+  retrieval_date: 2026-06-24
