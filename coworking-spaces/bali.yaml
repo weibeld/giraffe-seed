@@ -1,5 +1,11 @@
 - name: "TJ's Coffee & Co-Working"
+  area: Bali
   first_visit: 2026-03-13
+  url: n/a
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "07:00"
+  access_hours_to: "21:00"
   access_control: null
   staff_presence: null
   staff_details: null
@@ -17,9 +23,21 @@
   personal_rating: 2
   notes:
     - Outdoor cafe with dedicated indoor coworking area.
+  google_maps_id: ChIJXbuyVARE0i0RrcDPZXtohsY
+  google_maps_coord_lat: -8.7410549
+  google_maps_coord_lon: 115.1803324
+  google_maps_reviews_score: 4.3
+  google_maps_reviews_count: 141
+  google_maps_last_retrieved: 2026-03-23
 
 - name: Warna Coworking Bali
+  area: Bali
   first_visit: 2026-03-14
+  url: https://www.warnacoworkingbali.com/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "09:00"
+  access_hours_to: "20:00"
   access_control: null
   staff_presence: null
   staff_details: null
@@ -35,9 +53,21 @@
     - Noisy staff
   personal_rating: 2
   notes: []
+  google_maps_id: ChIJveybNaBH0i0RfzGH0e7VTq0
+  google_maps_coord_lat: -8.7251659
+  google_maps_coord_lon: 115.1721257
+  google_maps_reviews_score: 4.8
+  google_maps_reviews_count: 40
+  google_maps_last_retrieved: 2026-03-23
 
 - name: Tribal Bali Coworking Hostel
+  area: Bali
   first_visit: 2026-03-15
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -56,9 +86,21 @@
     - Outside food and drinks not allowed
   personal_rating: 1
   notes: []
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Camp 308
+  area: Bali
   first_visit: 2026-03-17
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -76,9 +118,21 @@
     - Attached to IZE Canggu hotel.
     - Pool is available at extra charge.
     - Day pass must be acquired by minimum spend in hotel restaurant.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Ubud Co-Working
+  area: Bali
   first_visit: 2026-03-20
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -97,9 +151,21 @@
   personal_rating: 3
   notes:
     - Attached to Puri Andong Villa hotel.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Tropical Nomad
+  area: Bali
   first_visit: 2026-03-26
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -115,9 +181,21 @@
   other_cons: []
   personal_rating: 2
   notes: []
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Ubud Space
+  area: Bali
   first_visit: 2026-03-27
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -135,9 +213,21 @@
     - Chairs too low for tables
   personal_rating: 2
   notes: []
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Livit Hub
+  area: Bali
   first_visit: 2026-03-30
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -154,11 +244,23 @@
     - Music and no AC in cafe on ground floor
   personal_rating: 2
   notes:
-    - Basic plan gives access to cafe (ground floor) and rooftop only
-    - Pro plan gives access to proper working areas
+    - Basic plan gives access to cafe (ground floor) and rooftop only.
+    - Pro plan gives access to proper working areas.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: BukitHub
+  area: Bali
   first_visit: 2026-04-01
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -180,9 +282,21 @@
     - Unprofessional setup for Bali standards
   personal_rating: 1
   notes: []
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Uluwatu Hub
+  area: Bali
   first_visit: 2026-04-02
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -200,9 +314,21 @@
   personal_rating: 3
   notes:
     - Attached to The Tempekan Heritage hotel.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Biliq Seminyak
+  area: Bali
   first_visit: 2026-04-03
+  url: http://www.biliqbali.com/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
   access_control: null
   staff_presence: null
   staff_details: null
@@ -219,9 +345,21 @@
     - No staff present on Sunday
   personal_rating: 2
   notes: []
+  google_maps_id: ChIJyzsusSdH0i0RTWXHC57T4lI
+  google_maps_coord_lat: -8.6914151
+  google_maps_coord_lon: 115.1752001
+  google_maps_reviews_score: 4.8
+  google_maps_reviews_count: 281
+  google_maps_last_retrieved: 2026-03-23
 
 - name: Hub Bali Legian
+  area: Bali
   first_visit: 2026-04-05
+  url: https://hubbali.co/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
   access_control: null
   staff_presence: null
   staff_details: null
@@ -240,9 +378,21 @@
   personal_rating: 1
   notes:
     - Located in lobby of Sara Residence hotel.
+  google_maps_id: ChIJw61cI9pG0i0RDyuXkNL6Cn4
+  google_maps_coord_lat: -8.6989906
+  google_maps_coord_lon: 115.1750399
+  google_maps_reviews_score: 4.4
+  google_maps_reviews_count: 143
+  google_maps_last_retrieved: 2026-03-23
 
 - name: Hub Bali Nusa Dua
+  area: Bali
   first_visit: 2026-04-07
+  url: http://www.hubbali.co/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
   access_control: null
   staff_presence: null
   staff_details: null
@@ -259,9 +409,21 @@
     - Bad air quality
   personal_rating: 1
   notes: []
+  google_maps_id: ChIJP_Gxg2VD0i0RdAmaBD2OQ4k
+  google_maps_coord_lat: -8.7856022
+  google_maps_coord_lon: 115.2003397
+  google_maps_reviews_score: 4.6
+  google_maps_reviews_count: 85
+  google_maps_last_retrieved: 2026-03-23
 
 - name: Hedonist Coworking Space
+  area: Bali
   first_visit: 2026-04-08
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -279,9 +441,21 @@
   personal_rating: 2
   notes:
     - Combined with Hedonist restaurant and bar.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Bali Bustle Kuta
+  area: Bali
   first_visit: 2026-04-08
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -298,9 +472,21 @@
   personal_rating: 3
   notes:
     - Listed on Google Maps as "Bali Bustle".
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Bustle Base
+  area: Bali
   first_visit: 2026-04-13
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -321,9 +507,21 @@
   personal_rating: 3
   notes:
     - Attached to Sun Boutique Hotel.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: La Timba
+  area: Bali
   first_visit: 2026-04-16
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -346,9 +544,21 @@
   personal_rating: 2
   notes:
     - Small coworking area in private residence.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Sokkool
+  area: Bali
   first_visit: 2026-04-17
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -370,9 +580,21 @@
     - Many desks reserved for fixed desk users
   personal_rating: 2
   notes: []
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: BWork Canggu
+  area: Bali
   first_visit: 2026-04-18
+  url: https://bwork.id/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
   access_control: null
   staff_presence: null
   staff_details: null
@@ -383,16 +605,28 @@
   silent_zone: true
   day_pass_validity: null
   other_pros:
-    - Free monitors 
+    - Free monitors
     - Large
   other_cons:
     - Requires door code or app to unlock door
     - Fridges are very small
-  personal_rating: 2 
+  personal_rating: 2
   notes: []
+  google_maps_id: ChIJ6fBvIpg50i0R8764BCFFN60
+  google_maps_coord_lat: -8.6540192
+  google_maps_coord_lon: 115.1352466
+  google_maps_reviews_score: 4.3
+  google_maps_reviews_count: 316
+  google_maps_last_retrieved: 2026-03-23
 
 - name: Outpost Ubud Nyuh Kuning
+  area: Bali
   first_visit: 2026-04-20
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -411,9 +645,21 @@
   other_cons: []
   personal_rating: 2
   notes: []
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
 
 - name: Outpost Ubud Penestanan
+  area: Bali
   first_visit: 2026-04-21
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
   access_control: null
   staff_presence: null
   staff_details: null
@@ -434,3 +680,9 @@
     - Crowded (no free seats)
   personal_rating: 1
   notes: []
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null

@@ -1,0 +1,402 @@
+- name: Terminal Batumi
+  area: Batumi
+  first_visit: 2026-06-10
+  url: https://terminal.center/location/terminal-batumi
+  pricing: "1 day — 40, weekend — 50, 10 days — 260, 1 month — 650"
+  pricing_last_verified: 2026-06-10
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  access_control: Front desk
+  staff_presence: true
+  staff_details: "Until 21:00 (reliable)"
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros:
+    - Free trial on first visit
+  other_cons:
+    - Limited number of desks
+    - Noisy (humans)
+  personal_rating: 2
+  notes:
+    - Observations apply only to ground floor (second floor not visited).
+    - 1 month membership includes access to all Terminal coworking spaces in Georgia.
+    - 10 days pass is valid for 10 consecutive days.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Locus Coworking
+  area: Batumi
+  first_visit: null
+  url: https://app.locus.ge/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "10:00"
+  access_hours_to: "21:00"
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities: null
+  free_tea: null
+  pool: null
+  silent_zone: null
+  day_pass_validity: null
+  other_pros: null
+  other_cons: null
+  personal_rating: null
+  notes: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: LendSpace
+  area: Batumi
+  first_visit: null
+  url: https://lendspace.ge/
+  pricing: "1 day — 30, 1 week — 150, 1 month — 490"
+  pricing_last_verified: 2026-06-10
+  access_hours_from: "10:00"
+  access_hours_to: "22:00"
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities: null
+  free_tea: null
+  pool: null
+  silent_zone: null
+  day_pass_validity: null
+  other_pros: null
+  other_cons: null
+  personal_rating: null
+  notes: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Batumi Coworking
+  area: Batumi
+  first_visit: null
+  url: http://coworking-batumi.com/
+  pricing: "1 day — 30, 1 week — 120, 1 month — 370"
+  pricing_last_verified: 2026-06-10
+  access_hours_from: "10:00"
+  access_hours_to: "19:00"
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities: null
+  free_tea: null
+  pool: null
+  silent_zone: null
+  day_pass_validity: null
+  other_pros: null
+  other_cons: null
+  personal_rating: null
+  notes:
+    - Website confirmed to be down on 27 June 2026, not clear whether coworking space is still operating.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: D Block Batumi
+  area: Batumi
+  first_visit: null
+  url: https://dblock.com/en/batumi
+  pricing: "1 day — 40, 1 month — 500"
+  pricing_last_verified: 2026-06-10
+  access_hours_from: null
+  access_hours_to: null
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities: null
+  free_tea: null
+  pool: null
+  silent_zone: null
+  day_pass_validity: null
+  other_pros: null
+  other_cons: null
+  personal_rating: null
+  notes: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: CONA Coworking Space
+  area: Tbilisi
+  first_visit: 2026-06-18
+  url: https://www.conacoworking.com/
+  pricing: "1 day — 30, 10 days — 170, 1 month — 370"
+  pricing_last_verified: 2026-06-18
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  access_control: Door code
+  staff_presence: false
+  staff_details: Reachable by phone and on WhatsApp (reliable)
+  kitchen_amenities:
+    - Microwave
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: 24h
+  other_pros:
+    - Not many people
+    - Quiet
+  other_cons:
+    - Cold (temperature)
+    - Not possible to autonomously re-enter with day pass (door must be opened remotely by staff)
+  personal_rating: 2
+  notes: []
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Terminal Abashidze
+  area: Tbilisi
+  first_visit: 2026-06-19
+  url: https://terminal.center/location/terminal-abashidze
+  pricing: "1 day — 40, 10 days — 220, 1 month — 500"
+  pricing_last_verified: 2026-06-19
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  access_control: Front desk
+  staff_presence: true
+  staff_details: Reliable
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: 24h
+  other_pros:
+    - Large
+  other_cons:
+    - Many desks reserved for fixed desk users
+    - Staff must know selected desk
+    - Many people
+  personal_rating: 2
+  notes:
+    - 1 month membership includes access to all Terminal coworking spaces in Georgia.
+    - 1 month membership includes fixed desk.
+    - 10 days pass is valid for 10 consecutive days (may be possible to skip weekends).
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: D Block Stamba
+  area: Tbilisi
+  first_visit: 2026-06-20
+  url: https://dblock.com/en
+  pricing: "1 day — 40, 1 month — 500, 1 month (afterhours and weekends) 270"
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  access_control: App
+  staff_presence: true
+  staff_details: Unreliable
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Toaster
+    - Dishes
+    - Cutlery
+    - Dishwasher
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: true
+  day_pass_validity: "Until 09:00 of next day"
+  other_pros:
+    - Very spacious (three floors)
+  other_cons:
+    - Bar with music (low volume) on main floor of coworking space
+    - App is unreliable for buying day passes and other memberships (payment refusal)
+    - Very dim lighting on main floor
+  personal_rating: 2
+  notes:
+    - Located within Stamba Hotel.
+    - 1 month (after hours and weekends) membership includes access on workdays from 18:00 to 09:00 and 24 hours on weekends.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: TWENTYFIVE Coworking
+  area: Tbilisi
+  first_visit: 2026-06-21
+  url: https://test.twentyfive.live/
+  pricing: "1 day — 30, 1 month — 350"
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  access_control: Door code
+  staff_presence: false
+  staff_details: Reachable on WhatsApp (reliable)
+  kitchen_amenities:
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: 24h
+  other_pros:
+    - Quiet
+    - Not many people
+  other_cons:
+    - Small desks
+  personal_rating: 3
+  notes:
+    - Online payment not working at time of visit, self-payment at credit card device inside coworking space.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Terminal Mozaika
+  area: Tbilisi
+  first_visit: 2026-06-23
+  url: https://terminal.center/location/terminal-mozaika
+  pricing: "1 day — 40, 10 days — 220, 1 month — 500"
+  pricing_last_verified: 2026-06-23
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  access_control: Front desk and key card
+  staff_presence: true
+  staff_details: "Unreliable (nobody at front desk at 17:00)"
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Toaster
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: 24h
+  other_pros:
+    - Large
+  other_cons:
+    - Noisy (humans) due to bad acoustics
+    - No windows or daylight
+  personal_rating: 2
+  notes:
+    - Located within business centre (Mosaic Business Center).
+    - 1 month membership includes access to all Terminal coworking spaces in Georgia.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Collider Ramishvili
+  area: Tbilisi
+  first_visit: 2026-06-24
+  url: https://www.colliderspaces.com/coworkingspace
+  pricing: "1 day — 30, 1 week — 150, 2 weeks — 250, 12 days — 250, 1 month — 400"
+  pricing_last_verified: 2026-06-24
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  access_control: Key card
+  staff_presence: true
+  staff_details: "Until 19:00 (reliable)"
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Water boiler
+  free_tea: false
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros: []
+  other_cons:
+    - Noisy (humans)
+    - Many desks reserved for fixed desk users
+    - Many people
+  personal_rating: 1
+  notes:
+    - 12 days pass is valid during a month.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Tsre Coworking
+  area: Tbilisi
+  first_visit: 2026-06-26
+  url: https://tsre.co/
+  pricing: "1 day — 25, 1 month (flex desk) — 349, 1 month (fixed desk) — 399"
+  pricing_last_verified: 2026-06-26
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  access_control: App
+  staff_presence: true
+  staff_details: "Until 13:00 (reliable)"
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Stove and cookware
+    - Dishes
+    - Cutlery
+    - Dishwasher
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: true
+  day_pass_validity: "Until 00:00"
+  other_pros:
+    - Quiet
+    - Not many people
+  other_cons:
+    - Inclined floor at some places
+  personal_rating: 2
+  notes:
+    - Located in an apartment of an old building.
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
