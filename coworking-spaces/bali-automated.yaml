@@ -1,0 +1,293 @@
+- name: "TJ's Coffee & Co-Working"
+  area: Bali
+  url: n/a
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "07:00"
+  access_hours_to: "21:00"
+  google_maps_id: ChIJXbuyVARE0i0RrcDPZXtohsY
+  google_maps_coord_lat: -8.7410549
+  google_maps_coord_lon: 115.1803324
+  google_maps_reviews_score: 4.3
+  google_maps_reviews_count: 141
+  google_maps_last_retrieved: 2026-03-23
+
+- name: Warna Coworking Bali
+  area: Bali
+  url: https://www.warnacoworkingbali.com/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "09:00"
+  access_hours_to: "20:00"
+  google_maps_id: ChIJveybNaBH0i0RfzGH0e7VTq0
+  google_maps_coord_lat: -8.7251659
+  google_maps_coord_lon: 115.1721257
+  google_maps_reviews_score: 4.8
+  google_maps_reviews_count: 40
+  google_maps_last_retrieved: 2026-03-23
+
+- name: Tribal Bali Coworking Hostel
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Camp 308
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Ubud Co-Working
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Tropical Nomad
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Ubud Space
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Livit Hub
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: BukitHub
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Uluwatu Hub
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Biliq Seminyak
+  area: Bali
+  url: http://www.biliqbali.com/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  google_maps_id: ChIJyzsusSdH0i0RTWXHC57T4lI
+  google_maps_coord_lat: -8.6914151
+  google_maps_coord_lon: 115.1752001
+  google_maps_reviews_score: 4.8
+  google_maps_reviews_count: 281
+  google_maps_last_retrieved: 2026-03-23
+
+- name: Hub Bali Legian
+  area: Bali
+  url: https://hubbali.co/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  google_maps_id: ChIJw61cI9pG0i0RDyuXkNL6Cn4
+  google_maps_coord_lat: -8.6989906
+  google_maps_coord_lon: 115.1750399
+  google_maps_reviews_score: 4.4
+  google_maps_reviews_count: 143
+  google_maps_last_retrieved: 2026-03-23
+
+- name: Hub Bali Nusa Dua
+  area: Bali
+  url: http://www.hubbali.co/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  google_maps_id: ChIJP_Gxg2VD0i0RdAmaBD2OQ4k
+  google_maps_coord_lat: -8.7856022
+  google_maps_coord_lon: 115.2003397
+  google_maps_reviews_score: 4.6
+  google_maps_reviews_count: 85
+  google_maps_last_retrieved: 2026-03-23
+
+- name: Hedonist Coworking Space
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Bali Bustle Kuta
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Bustle Base
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: La Timba
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Sokkool
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: BWork Canggu
+  area: Bali
+  url: https://bwork.id/
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  google_maps_id: ChIJ6fBvIpg50i0R8764BCFFN60
+  google_maps_coord_lat: -8.6540192
+  google_maps_coord_lon: 115.1352466
+  google_maps_reviews_score: 4.3
+  google_maps_reviews_count: 316
+  google_maps_last_retrieved: 2026-03-23
+
+- name: Outpost Ubud Nyuh Kuning
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
+
+- name: Outpost Ubud Penestanan
+  area: Bali
+  url: null
+  pricing: null
+  pricing_last_verified: null
+  access_hours_from: null
+  access_hours_to: null
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null

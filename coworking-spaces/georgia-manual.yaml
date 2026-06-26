@@ -8,7 +8,6 @@
     - Microwave
     - Dishes
     - Cutlery
-    - Cups
     - Water boiler
   free_tea: true
   day_pass_validity: null
@@ -18,7 +17,10 @@
     - Limited number of desks
     - Noisy (humans)
   personal_rating: 2
-  remarks: Observations apply only to ground floor (second floor not visited).
+  notes:
+    - Observations apply only to ground floor (second floor not visited).
+    - 1 month membership includes access to all Terminal coworking spaces in Georgia.
+    - 10 days pass is valid for 10 consecutive days.
 
 - name: CONA Coworking Space
   first_visit: 2026-06-18
@@ -27,7 +29,6 @@
   staff_details: Reachable by phone and on WhatsApp (reliable)
   kitchen_amenities:
     - Microwave
-    - Cups
     - Water boiler
   free_tea: true
   day_pass_validity: 24h
@@ -38,6 +39,7 @@
     - Cold (temperature)
     - Not possible to autonomously re-enter with day pass (door must be opened remotely by staff)
   personal_rating: 2
+  notes: []
 
 - name: Terminal Abashidze
   first_visit: 2026-06-19
@@ -49,7 +51,6 @@
     - Microwave
     - Dishes
     - Cutlery
-    - Cups
     - Water boiler
   free_tea: true
   day_pass_validity: 24h
@@ -60,7 +61,10 @@
     - Staff must know selected desk
     - Many people
   personal_rating: 2
-  remarks: null
+  notes:
+    - 1 month membership includes access to all Terminal coworking spaces in Georgia.
+    - 1 month membership includes fixed desk.
+    - 10 days pass is valid for 10 consecutive days (may be possible to skip weekends).
 
 - name: D Block Workspace @ Stamba
   first_visit: 2026-06-20
@@ -73,7 +77,6 @@
     - Toaster
     - Dishes
     - Cutlery
-    - Cups
     - Dishwasher
     - Water boiler
   free_tea: true
@@ -85,7 +88,9 @@
     - App is unreliable for buying day passes and other memberships (payment refusal)
     - Very dim lighting on main floor
   personal_rating: 2
-  remarks: Located within Stamba Hotel.
+  notes:
+    - Located within Stamba Hotel.
+    - 1 month (after hours and weekends) membership includes access on workdays from 18:00 to 09:00 and 24 hours on weekends.
 
 - name: TWENTYFIVE Coworking
   first_visit: 2026-06-21
@@ -95,7 +100,6 @@
   kitchen_amenities:
     - Dishes
     - Cutlery
-    - Cups
     - Water boiler
   free_tea: true
   day_pass_validity: 24h
@@ -105,7 +109,8 @@
   other_cons:
     - Small desks
   personal_rating: 3
-  remarks: Online payment not working at time of visit, self-payment at credit card device inside coworking space.
+  notes:
+    - Online payment not working at time of visit, self-payment at credit card device inside coworking space.
 
 - name: Terminal Mozaika
   first_visit: 2026-06-23
@@ -118,7 +123,6 @@
     - Toaster
     - Dishes
     - Cutlery
-    - Cups
     - Water boiler
   free_tea: true
   day_pass_validity: 24h
@@ -128,7 +132,9 @@
     - Noisy (humans) due to bad acoustics
     - No windows or daylight
   personal_rating: 2
-  remarks: Located within business centre (Mosaic Business Center).
+  notes:
+    - Located within business centre (Mosaic Business Center).
+    - 1 month membership includes access to all Terminal coworking spaces in Georgia.
 
 - name: Collider Ramishvili (Vake)
   first_visit: 2026-06-24
@@ -139,7 +145,6 @@
     - Fridge
     - Microwave
     - Water boiler
-    - Cups
   free_tea: false
   day_pass_validity: null
   other_pros: []
@@ -148,7 +153,8 @@
     - Many desks reserved for fixed desk users
     - Many people
   personal_rating: 1
-  remarks: null
+  notes:
+    - 12 days pass is valid during a month.
 
 - name: Tsre Coworking
   first_visit: 2026-06-26
@@ -158,10 +164,9 @@
   kitchen_amenities:
     - Fridge
     - Microwave
-    - Stove
+    - Stove and cookware
     - Dishes
     - Cutlery
-    - Cups
     - Dishwasher
     - Water boiler
   free_tea: true
@@ -173,4 +178,5 @@
     - Sloped floor in some parts due to old building
     - Many desks reserved for fixed desk users
   personal_rating: 2
-  remarks: Located in an apartment of an old building.
+  notes:
+    - Located in an apartment of an old building.

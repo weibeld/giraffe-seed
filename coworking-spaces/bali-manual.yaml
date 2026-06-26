@@ -1,0 +1,436 @@
+- name: "TJ's Coffee & Co-Working"
+  first_visit: 2026-03-13
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros:
+    - Not many people
+  other_cons:
+    - Dim lights in coworking space when it's dark
+    - Mosquitoes
+  personal_rating: 2
+  notes:
+    - Outdoor cafe with dedicated indoor coworking area.
+
+- name: Warna Coworking Bali
+  first_visit: 2026-03-14
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros:
+    - Not many people
+  other_cons:
+    - Noisy staff
+  personal_rating: 2
+  notes: []
+
+- name: Tribal Bali Coworking Hostel
+  first_visit: 2026-03-15
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: true
+  silent_zone: false
+  day_pass_validity: null
+  other_pros: []
+  other_cons:
+    - No indoor working areas
+    - No AC
+    - No fans
+    - Music in working area
+    - Outside food and drinks not allowed
+  personal_rating: 1
+  notes: []
+
+- name: Camp 308
+  first_visit: 2026-03-17
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities: []
+  free_tea: false
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros:
+    - Not many people
+  other_cons:
+    - Outside food and drinks not allowed
+  personal_rating: 2
+  notes:
+    - Attached to IZE Canggu hotel.
+    - Pool is available at extra charge.
+    - Day pass must be acquired by minimum spend in hotel restaurant.
+
+- name: Ubud Co-Working
+  first_visit: 2026-03-20
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros:
+    - Quiet
+    - Not many people
+    - Cats
+  other_cons:
+    - No AC
+  personal_rating: 3
+  notes:
+    - Attached to Puri Andong Villa hotel.
+
+- name: Tropical Nomad
+  first_visit: 2026-03-26
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Fridge
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: true
+  day_pass_validity: null
+  other_pros:
+    - Height-adjustable desks
+  other_cons: []
+  personal_rating: 2
+  notes: []
+
+- name: Ubud Space
+  first_visit: 2026-03-27
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: false
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros:
+    - Not many people
+  other_cons:
+    - Traffic noise
+    - Small
+    - Chairs too low for tables
+  personal_rating: 2
+  notes: []
+
+- name: Livit Hub
+  first_visit: 2026-03-30
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Fridge
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: true
+  day_pass_validity: 24h from time of purchase
+  other_pros:
+    - Free snacks (fruits, cookies, peanuts)
+  other_cons:
+    - Music and no AC in cafe on ground floor
+  personal_rating: 2
+  notes:
+    - Basic plan gives access to cafe (ground floor) and rooftop only
+    - Pro plan gives access to proper working areas
+
+- name: BukitHub
+  first_visit: 2026-04-01
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros: []
+  other_cons:
+    - Traffic noise
+    - Noisy (humans)
+    - Many people
+    - Unprofessional setup for Bali standards
+  personal_rating: 1
+  notes: []
+
+- name: Uluwatu Hub
+  first_visit: 2026-04-02
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: true
+  day_pass_validity: null
+  other_pros:
+    - Quiet
+    - Beautiful surroundings in hotel garden
+  other_cons:
+    - Remote location
+  personal_rating: 3
+  notes:
+    - Attached to The Tempekan Heritage hotel.
+
+- name: Biliq Seminyak
+  first_visit: 2026-04-03
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros:
+    - Not many people
+  other_cons:
+    - Unclear how to get in when staff is not present
+    - No staff present on Sunday
+  personal_rating: 2
+  notes: []
+
+- name: Hub Bali Legian
+  first_visit: 2026-04-05
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: true
+  silent_zone: false
+  day_pass_validity: null
+  other_pros: []
+  other_cons:
+    - Noisy (humans)
+    - Music from hotel lobby
+    - Outside food and drinks not allowed
+    - Mosquitoes (indoors and outdoors)
+  personal_rating: 1
+  notes:
+    - Located in lobby of Sara Residence hotel.
+
+- name: Hub Bali Nusa Dua
+  first_visit: 2026-04-07
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros: []
+  other_cons:
+    - Dirty and shaky tables
+    - Insufficient AC
+    - Bad air quality
+  personal_rating: 1
+  notes: []
+
+- name: Hedonist Coworking Space
+  first_visit: 2026-04-08
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: null
+  other_pros:
+    - Modern building
+  other_cons:
+    - Traffic noise
+    - Music from restaurant and bar
+  personal_rating: 2
+  notes:
+    - Combined with Hedonist restaurant and bar.
+
+- name: Bali Bustle Kuta
+  first_visit: 2026-04-08
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Water boiler
+  free_tea: true
+  pool: true
+  silent_zone: false
+  day_pass_validity: 24h from time of purchase
+  other_pros:
+    - Quiet
+  other_cons:
+    - Eating not allowed in coworking space (not strictly enforced)
+  personal_rating: 3
+  notes:
+    - Listed on Google Maps as "Bali Bustle".
+
+- name: Bustle Base
+  first_visit: 2026-04-13
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Stove and cookware
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: true
+  silent_zone: false
+  day_pass_validity: 24h from time of purchase
+  other_pros: []
+  other_cons:
+    - Eating not allowed in coworking space (not strictly enforced)
+  personal_rating: 3
+  notes:
+    - Attached to Sun Boutique Hotel.
+
+- name: La Timba
+  first_visit: 2026-04-16
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Stove and cookware
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: true
+  silent_zone: false
+  day_pass_validity: null
+  other_pros:
+    - Quiet
+    - Not many people
+  other_cons:
+    - Remote location
+  personal_rating: 2
+  notes:
+    - Small coworking area in private residence.
+
+- name: Sokkool
+  first_visit: 2026-04-17
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: true
+  silent_zone: true
+  day_pass_validity: null
+  other_pros:
+    - Height-adjustable desks
+    - Gym
+  other_cons:
+    - Many people
+    - Many desks reserved for fixed desk users
+  personal_rating: 2
+  notes: []
+
+- name: BWork Canggu
+  first_visit: 2026-04-18
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Fridge
+  free_tea: false
+  pool: true
+  silent_zone: true
+  day_pass_validity: null
+  other_pros:
+    - Free monitors 
+    - Large
+  other_cons:
+    - Requires door code or app to unlock door
+    - Fridges are very small
+  personal_rating: 2 
+  notes: []
+
+- name: Outpost Ubud Nyuh Kuning
+  first_visit: 2026-04-20
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: true
+  day_pass_validity: null
+  other_pros:
+    - Free snacks (fruits)
+  other_cons: []
+  personal_rating: 2
+  notes: []
+
+- name: Outpost Ubud Penestanan
+  first_visit: 2026-04-21
+  access_control: null
+  staff_presence: null
+  staff_details: null
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Stove and cookware
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: true
+  silent_zone: true
+  day_pass_validity: null
+  other_pros:
+    - Cat
+  other_cons:
+    - Crowded (no free seats)
+  personal_rating: 1
+  notes: []
