@@ -75,3 +75,9 @@
   notes:
     - 12 days pass is valid during a month.
   retrieval_date: 2026-06-24
+- name: Tsre Coworking
+  city: Tbilisi
+  url: https://tsre.co/
+  price: "1 day — 25, 1 month (flex desk) — 349, 1 month (fixed desk) — 399"
+  access: "0:00-00:00"
+  retrieval_date: 2026-06-26
