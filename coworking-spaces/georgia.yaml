@@ -400,3 +400,36 @@
   google_maps_reviews_score: null
   google_maps_reviews_count: null
   google_maps_last_retrieved: null
+
+- name: The Hub
+  area: Tbilisi
+  first_visit: 2026-06-28
+  url: https://thehub.ge/
+  pricing: "1 day — 40, 1 week — 170, 1 month — 425"
+  pricing_last_verified: 2026-06-28
+  access_hours_from: "00:00"
+  access_hours_to: "24:00"
+  access_control: Door code
+  staff_presence: true
+  staff_details: "Until 18:00 (reliable)"
+  kitchen_amenities:
+    - Fridge
+    - Microwave
+    - Dishes
+    - Cutlery
+    - Water boiler
+  free_tea: true
+  pool: false
+  silent_zone: false
+  day_pass_validity: "Until 00:00"
+  other_pros: []
+  other_cons:
+    - Many desks reserved for fixed desk users
+    - Power plugs far from desk
+  personal_rating: 2
+  google_maps_id: null
+  google_maps_coord_lat: null
+  google_maps_coord_lon: null
+  google_maps_reviews_score: null
+  google_maps_reviews_count: null
+  google_maps_last_retrieved: null
