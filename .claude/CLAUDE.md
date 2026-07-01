@@ -1,8 +1,19 @@
-# CLAUDE.md — Georgia Coworking Spaces
+# CLAUDE.md — giraffe-seed
 
-This project records information about visited coworking spaces in the country of Georgia. This data is planned to eventually be converted to a data set in [Giraffe](https://github.com/weibeld/giraffe/) (see project description in [concept doc](https://raw.githubusercontent.com/weibeld/giraffe/refs/heads/main/.claude/concept.md)).
+This project collects data that is intended to be inserted into the [Giraffe](https://github.com/weibeld/giraffe/) data management platform once it has been created. Details about what Giraffe is can be found in the Giraffe project's [concept doc](https://raw.githubusercontent.com/weibeld/giraffe/refs/heads/main/docs/concept.md)).
 
-The data is located in the `coworking-spaces/` sub-directory and is split across two files:
+## Repository structure
 
-- **`georgia-automated.yaml`:** Data that can be determined automatically from sources like the coworking space's website or Google Maps. Currently, this data is still entered manually, but it is planned that this will eventually be automated when the data is managed within Giraffe. When the data is managed in Giraffe, additional fields like Google Places ID, geographical coordinates, Google Maps rating, etc. are also planned to be added and subsequentially automatically determined for all items.
-- **`georgia-manual.yaml`:** Data that cannot be reliably determined automatically and mainly results from personal observations during visits to the coworking spaces. These data fields are determined manually now and will also likely have to be determined manually when the data is managed in Giraffe.
+This repository contains a sub-directory for every data set. Data is collected in YAML format (usually a single YAML file per dataset).
+
+## Omission of computed fields
+
+The data files do not include fields that are intended to be implemented as computed fields in Giraffe (that is fields that are automatically determined by Giraffe based on a computation configuration). These intended computed fields are listed in the CLAUDE.md file of the dataset's sub-directory.
+
+## Data conventions
+
+The data files use the following conventions:
+
+- Any field type with a `null` value: "pending", i.e. the value of the field has not yet been determined
+- A scalar field with a `"n/a"` value: "not applicable", i.e. the field does not apply to this entry, or the field has no value
+- A list field with a `[]` value: "no items", i.e. the list is empty and has no values
