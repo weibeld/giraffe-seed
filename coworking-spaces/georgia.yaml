@@ -281,6 +281,8 @@
     - Not many people
   other_cons:
     - Small desks
+    - Desks too high relative to chairs
+    - Most chairs are either not height-adjustable or uncomfortable
   personal_rating: 3
   notes:
     - Online payment not working at time of visit, self-payment at credit card device inside coworking space.
@@ -422,7 +424,8 @@
   pool: false
   silent_zone: false
   day_pass_validity: "Until 00:00"
-  other_pros: []
+  other_pros:
+    - Additional floor with some secluded desks
   other_cons:
     - Many desks reserved for fixed desk users
     - Power plugs far from desk
